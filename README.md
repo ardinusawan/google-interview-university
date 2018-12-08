@@ -245,7 +245,6 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-<<<<<<< HEAD
 <details>
 <summary>Interview Process & General Interview Prep</summary>
 
@@ -386,14 +385,10 @@ OR:
 
 ### Python
 
-<<<<<<< HEAD
 <details>
 <summary>Python</summary>
 
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-=======
 - [x] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
->>>>>>> Marked Data Structures and Algorithms in Python, already download
     - by Goodrich, Tamassia, Goldwasser
     - I loved this book. It covered everything and more.
     - Pythonic code
